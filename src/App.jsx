@@ -1,11 +1,11 @@
 import React from 'react'
+import Header from './Components/Header'
 
 const App = () => {
   return (
     <div>
-      <h1>
-        Salo
-      </h1>
+      <Header/>
+      
     </div>
   )
 }

@@ -1,11 +1,13 @@
 import React from 'react'
-import Pr from 'src/assets/Pr.png'
+import Pr from '../assets/Pr.png'
 
 const Header = () => {
   return (
     <div>
-        <img src={'Pr.png'} />
-        <h1>salo</h1>
+        
+        <header>
+          <img src={Pr} />
+        </header>
 
     </div>
   )
