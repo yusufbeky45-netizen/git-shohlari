@@ -5,6 +5,7 @@ const Header = () => {
   return (
     <div>
         <img src={'Pr.png'} />
+        <h1>salo</h1>
 
     </div>
   )
